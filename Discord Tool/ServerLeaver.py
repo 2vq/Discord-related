@@ -9,7 +9,7 @@ token = 'token here'
 
 @client.event
 async def on_connect():
-        os.system(f'cls & title [Account Nuker]')
+        os.system(f'cls & title [Guild/Server Leaver]')
         for guild in client.guilds:
             try:
                 servers = client.get_guild(guild.id)
