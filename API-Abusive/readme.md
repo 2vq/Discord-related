@@ -1,7 +1,8 @@
 
 # Features:
 * Nitro Gen
-https://user-images.githubusercontent.com/74454528/138609636-2e5a6b91-e96b-488b-b192-f8d8a33dc717.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74454528/138609713-cce5a7e2-0cf8-4362-8273-02d6d13d00e3.gif)
+
 * Account Nuker 
 * Server Nuker
 * 
