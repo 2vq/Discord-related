@@ -1,3 +1,4 @@
+# not originally made by me
 import discord
 import json
 import os
