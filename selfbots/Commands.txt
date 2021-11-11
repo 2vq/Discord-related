@@ -38,3 +38,6 @@
 // Troll Commands
 [ Token/Ft/Fdt ] (user) - Sends a fake Discord token
 [ Spam ] (amount) + (message) - Spams whatever message you put for whatever amount u put
+
+// Extra Commands
+[ Cls ] - Clears console back to normal
