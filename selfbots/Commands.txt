@@ -1,0 +1,40 @@
+// Main Command (someone help me its 02:22 AM)
+[ Help ] - Shows this site (obviously) 
+
+// Status Commands
+[ Stream ] (msg)  - Changes status to Streaming (msg)
+[ Play ] (msg) - Changes status to Playing (msg)
+[ Watch ] (msg) - Changes status to Watching (msg)
+[ Listen ] (msg) - Changes status to Listening (msg)
+
+// Normal Commands
+[ Avatar/Pfp/Av ] (user) - Shows users avatar
+[ Dick/Dong/Penis ] (user) - Shows users dick size
+[ 8ball ] (question) - Answers youre question with an Answer
+[ Tickle ] (user) - Shows image/gif of some anime person getting tickled?
+[ Hug ] (user) - Shows image/gif of some anime person hugging someone?
+[ Slap ] (user) - Shows image/gif of some anime person getting slapped?
+[ Pat ] (user) - Shows image/gif of some anime person getting head pats?
+[ Wink ] (user) - Shows image/gif of some anime person winking?
+[ Kiss ] (user) - Shows image/gif of some anime person kidding someone?
+[ Smug ] - Shows image/gif of some anime person smugging?
+[ Wallpaper ] - Shows image/gif of some ranom wallpaper?
+
+// Guild Related Commands
+[ Serverpfp/Servicon/Servpfp/servericon ] - Shows current guild Server Picture
+[ Copy ] - Copies entire Guild/Server
+
+// Animal Commands
+[ Fox ] - Shows image/gif of a Fox
+[ Dog ] - Shows image/gif of a Dog
+[ Cat ] - Shows image/gif of a Cat
+
+// NSFW Commands
+[ Blowjob/bj ] (user) - Shows image of a Blowjob
+[ Hentai ] - Shows image/gif of Hentai
+[ Boobs ] - Shows image/gif of Anime Boobs
+[ lewdneko ] - Shows image/gif of Lewd Anime cat girls
+
+// Troll Commands
+[ Token/Ft/Fdt ] (user) - Sends a fake Discord token
+[ Spam ] (amount) + (message) - Spams whatever message you put for whatever amount u put
