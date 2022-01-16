@@ -5,7 +5,7 @@ import discord
 
 client = discord.Client()
 color = 0xFF0000
-token = 'enter discord token here'
+token = input(f'Token -> ')
 tt = "Title here" # Change Embed Title here
 desc = "Text here" # Change Embed description here
 thumbn = "https://cdn.discordapp.com/attachments/852596305406853140/881215847539019846/dcfae76d14ff6129.gif" # link only!
