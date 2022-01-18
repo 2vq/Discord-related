@@ -5,7 +5,6 @@ import discord
 from dhooks import Webhook
 
 token = input(f'Discord Token -> ')
-client = discord.Client()
 
 link = f'https://discord.com/api/v9/users/@me'
 headers = {'Authorization': f'{token}'}
