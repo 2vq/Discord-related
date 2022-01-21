@@ -8,7 +8,7 @@ client = discord.Client()
 link = f'https://discord.com/api/v9/users/@me'
 headers = {'Authorization': f'{token}'}
 codes = [200, 201, 204]
-api = f'webhook here'
+api = f'discord webhook here'
 
 def checktoken():
     r = requests.get(link, headers = headers)
